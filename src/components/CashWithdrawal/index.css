@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.ct {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.balance-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 25vw;
+}

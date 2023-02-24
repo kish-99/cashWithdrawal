@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.li {
+  min-width: 250px;
+  color: white;
+  background-color: #585076;
+  margin: 5px;
+  text-align: center;
+  height: 50px;
+}
+
+.l {
+  list-style-type: none;
+}
